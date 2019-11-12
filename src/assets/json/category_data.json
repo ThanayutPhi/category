@@ -1,0 +1,145 @@
+{
+    "status": 200,
+    "data": {
+        "cate_data": [
+            {
+                "name": "มือถือและอุปกรณ์เสริม",
+                "cover_image": [
+                    "https://pub.thisshop.com/shop/block/2019111/66329368_1572583692544.jpg",
+                    "https://pub.thisshop.com/shop/block/2019111/76264354_1572583780793.png",
+                    "https://pub.thisshop.com/shop/block/2019111/80264441_1572583813126.png"
+                ],
+                "icon": "https://pub.thisshop.com/shop/block/20190816/26794046_1565923231439.png",
+                "brands": [
+                    {
+                        "name": "iPhone",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/46107227_1569307226757.png"
+                    },
+                    {
+                        "name": "vivo",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/3892098_1569307254659.png"
+                    },
+                    {
+                        "name": "oppo",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/26046598_1569307286850.png"
+                    },
+                    {
+                        "name": "HUAWEI",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/19617454_1569307319609.png"
+                    },
+                    {
+                        "name": "MI",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/90870042_1569307340345.png"
+                    },
+                    {
+                        "name": "HONOR",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/29817073_1569307366613.png"
+                    }
+                ],
+                "producks": [
+                    {
+                        "name": "สมาร์ทโฟน",
+                        "image": "https://pub.thisshop.com/shop/block/20190816/63456397_1565925293076.jpg"
+                    },
+                    {
+                        "name": "เคสมือถือ",
+                        "image": "https://pub.thisshop.com/shop/block/20190816/29158169_1565925310022.jpg"
+                    },
+                    {
+                        "name": "สายชาร์จ",
+                        "image": "https://pub.thisshop.com/shop/block/20190816/52969088_1565925353891.jpg"
+                    },
+                    {
+                        "name": "แบตเตอรี่",
+                        "image": "https://pub.thisshop.com/shop/block/20190816/49348910_1565925397960.jpg"
+                    },
+                    {
+                        "name": "แท่นชาร์จ",
+                        "image": "https://pub.thisshop.com/shop/block/20190816/56897728_1565925415911.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "คอมพิวเตอร์",
+                "cover_image": [
+                    "https://pub.thisshop.com/shop/default/2019101/65677458_1569902283086.jpg",
+                    "https://pub.thisshop.com/shop/block/20191030/4301303_1572408321147.png",
+                    "https://pub.thisshop.com/shop/block/20191025/22223547_1571970314476.png"
+                ],
+                "icon": "https://pub.thisshop.com/shop/category/icon/1551439415750.png",
+                "brands": [
+                    {
+                        "name": "acer",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/59927070_1569306996110.png"
+                    },
+                    {
+                        "name": "Lenovo",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/45012744_1569307003968.png"
+                    },
+                    {
+                        "name": "Asus",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/15466763_1569307033203.png"
+                    },
+                    {
+                        "name": "AOC",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/96586706_1569307046183.png"
+                    },
+                    {
+                        "name": "RAZER",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/18175971_1569307058672.png"
+                    },
+                    {
+                        "name": "hp",
+                        "image": "https://pub.thisshop.com/shop/default/20190924/89023748_1569307089799.png"
+                    }
+                ],
+                "producks": [
+                    {
+                        "name": "แลปท็อป",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/3230485_1568964607806.jpg"
+                    },
+                    {
+                        "name": "แท็บเล็ต",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/40149826_1568964592007.jpg"
+                    },
+                    {
+                        "name": "เกมมิ่งแลบ",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/6145988_1568964627384.jpg"
+                    },
+                    {
+                        "name": "เครื่องเกม",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/87736760_1568964663351.jpg"
+                    },
+                    {
+                        "name": "จอคอมพิวเตอร์",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/80023178_1568964709719.jpg"
+                    },
+                    {
+                        "name": "อุปกรณ์เสริม",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/22885997_1568964755639.jpg"
+                    },
+                    {
+                        "name": "เครื่องปริ้นท์",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/48734785_1568964783023.jpg"
+                    },
+                    {
+                        "name": "เมาส์และแผ่นลองเมาส์",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/77116440_1568964816220.jpg"
+                    },
+                    {
+                        "name": "ชุดประกอบคอมพิวเตอร์",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/94789525_1568964803525.jpg"
+                    },
+                    {
+                        "name": "คีย์บอร์ดเกมเมอร์",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/47831382_1568964830560.jpg"
+                    },
+                    {
+                        "name": "หูฟังและลำโพง",
+                        "image": "https://pub.thisshop.com/shop/default/20190920/66361540_1568964840767.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -7,46 +7,21 @@ const routes: Routes = [
     path: 'tabs',
     component: TabsPage,
     children: [
-      {
-        path: 'tab1',
-        children: [
-          {
-            path: '',
-            loadChildren: () =>
-              import('../tab1/tab1.module').then(m => m.Tab1PageModule)
-          }
-        ]
-      },
-      {
-        path: 'tab2',
-        children: [
-          {
-            path: '',
-            loadChildren: () =>
-              import('../tab2/tab2.module').then(m => m.Tab2PageModule)
-          }
-        ]
-      },
-      {
-        path: 'tab3',
-        children: [
-          {
-            path: '',
-            loadChildren: () =>
-              import('../tab3/tab3.module').then(m => m.Tab3PageModule)
-          }
-        ]
-      },
+      { path: 'home', loadChildren: 'src/app/main/home/home.module#HomePageModule' },
+      { path: 'category', loadChildren: 'src/app/main/category/category.module#CategoryPageModule' },
+      { path: 'credit', loadChildren: 'src/app/main/credit/credit.module#CreditPageModule' },
+      { path: 'cart', loadChildren: 'src/app/main/cart/cart.module#CartPageModule' },
+      { path: 'account', loadChildren: 'src/app/main/account/account.module#AccountPageModule' },
       {
         path: '',
-        redirectTo: '/tabs/tab1',
+        redirectTo: '/tabs/category',
         pathMatch: 'full'
       }
     ]
   },
   {
     path: '',
-    redirectTo: '/tabs/tab1',
+    redirectTo: '/tabs/category',
     pathMatch: 'full'
   }
 ];
@@ -55,4 +30,4 @@ const routes: Routes = [
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
 })
-export class TabsPageRoutingModule {}
+export class TabsPageRoutingModule { }
