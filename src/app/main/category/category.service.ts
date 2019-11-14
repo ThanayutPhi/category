@@ -22,7 +22,7 @@ export class CategoryService {
       this.http.get("../../../assets/json/category_data.json").subscribe((response: any) => {
         this.onDataChanged.next(response.data);
         resolve(response.data);
-      });
+      }, reject);
     });
   }
 
